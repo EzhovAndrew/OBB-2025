@@ -1,0 +1,1 @@
+curl -X DELETE "http://$NODE_IP:30007/sessions?user_id=$1&session_id=$2"

@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d '{"user_id": 23}' "http://$NODE_IP:30007/sessions"

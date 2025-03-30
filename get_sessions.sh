@@ -1,0 +1,1 @@
+curl "http://$NODE_IP:30007/sessions?user_id=$1"
